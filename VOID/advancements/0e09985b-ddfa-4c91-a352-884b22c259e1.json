@@ -1,0 +1,17 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2020-03-13 11:54:42 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2020-03-13 11:54:53 -0700",
+      "minecraft:snowy_beach": "2020-03-13 11:53:59 -0700",
+      "minecraft:river": "2020-03-13 11:53:47 -0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
