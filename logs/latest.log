@@ -1,0 +1,231 @@
+[11:25:47] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[11:25:47] [Server thread/INFO]: Loading properties
+[11:25:47] [Server thread/INFO]: This server is running Paper version git-Paper-133 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[11:25:48] [Server thread/INFO]: Debug logging is disabled
+[11:25:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[11:25:48] [Server thread/INFO]: Using 4 threads for Netty based IO
+[11:25:48] [Server thread/INFO]: Default game type: SURVIVAL
+[11:25:48] [Server thread/INFO]: Generating keypair
+[11:25:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:25:48] [Server thread/INFO]: Using default channel type
+[11:25:50] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[11:25:53] [Server thread/WARN]: Legacy plugin dynmap v3.0-beta-10-257 does not specify an api-version.
+[11:25:54] [Server thread/WARN]: Legacy plugin AddLight v4.3.2 does not specify an api-version.
+[11:25:54] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.1.6
+[11:25:54] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.0.72
+[11:25:54] [Server thread/INFO]: [OldCombatMechanics] Loading OldCombatMechanics v1.7.4
+[11:25:54] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[11:25:54] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.1.0-b775
+[11:25:54] [Server thread/INFO]: [dynmap] Loading dynmap v3.0-beta-10-257
+[11:25:54] [Server thread/INFO]: [dynmap] version=git-Paper-133 (MC: 1.15.2)
+[11:25:54] [Server thread/INFO]: [dynmap] Unload queue not found - default to unload all chunks
+[11:25:54] [Server thread/INFO]: [dynmap] inhabitedTicks field not found - inhabited shader not functional
+[11:25:54] [Server thread/INFO]: [dynmap] Mod Support API available
+[11:25:54] [Server thread/INFO]: [GUIShop] Loading GUIShop v7.3.8
+[11:25:54] [Server thread/INFO]: [Ultimate_Economy] Loading Ultimate_Economy v1.2.5e
+[11:25:54] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[11:25:55] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3c557ac6]
+[11:25:55] [Server thread/INFO]: [AddLight] Loading AddLight v4.3.2
+[11:25:55] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[11:25:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[11:25:55] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.0.72
+[11:25:55] [Server thread/INFO]:         __    
+[11:25:55] [Server thread/INFO]:   |    |__)   LuckPerms v5.0.72
+[11:25:55] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[11:25:55] [Server thread/INFO]: 
+[11:25:55] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[11:25:56] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[11:25:57] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[11:25:57] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[11:25:57] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1868ms)
+[11:25:57] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[11:25:57] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[11:25:57] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[11:25:57] [Server thread/WARN]: [LuckPerms] Loaded class net.milkbowl.vault.permission.Permission from Vault v1.7.2-b107 which is not a depend, softdepend or loadbefore of this plugin.
+[11:25:57] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[11:25:57] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[11:25:57] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[11:25:58] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_15_R2 as the Bukkit adapter
+[11:25:58] [Server thread/INFO]: Preparing level "VOID"
+[11:25:59] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[11:25:59] [Server thread/INFO]: Loaded 6 recipes
+[11:26:00] [Server thread/INFO]: -------- World Settings For [VOID] --------
+[11:26:00] [Server thread/INFO]: View Distance: 6
+[11:26:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:26:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:26:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:26:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:26:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:26:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:26:00] [Server thread/INFO]: Mob Spawn Range: 8
+[11:26:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:26:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:26:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[11:26:00] [Server thread/INFO]: Max TNT Explosions: 100
+[11:26:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:26:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:26:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:26:00] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[11:26:00] [Server thread/INFO]: -------- World Settings For [VOID_the_end] --------
+[11:26:00] [Server thread/INFO]: View Distance: 6
+[11:26:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[11:26:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[11:26:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[11:26:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[11:26:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[11:26:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[11:26:00] [Server thread/INFO]: Mob Spawn Range: 8
+[11:26:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[11:26:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[11:26:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[11:26:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[11:26:00] [Server thread/INFO]: Max TNT Explosions: 100
+[11:26:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[11:26:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[11:26:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[11:26:00] [Server thread/INFO]: Preparing start region for dimension 'VOID'/minecraft:overworld
+[11:26:00] [Server thread/INFO]: Preparing spawn area: 0%
+[11:26:01] [Server thread/INFO]: Preparing spawn area: 13%
+[11:26:01] [Server thread/INFO]: Preparing spawn area: 100%
+[11:26:03] [Server-Worker-5/INFO]: Preparing spawn area: 100%
+[11:26:03] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[11:26:03] [Server-Worker-4/INFO]: Preparing spawn area: 100%
+[11:26:03] [Server thread/INFO]: Preparing spawn area: 100%
+[11:26:04] [Server thread/INFO]: Preparing spawn area: 100%
+[11:26:04] [Server-Worker-6/INFO]: Preparing spawn area: 100%
+[11:26:05] [Server thread/INFO]: Preparing spawn area: 100%
+[11:26:05] [Server-Worker-1/INFO]: Preparing spawn area: 100%
+[11:26:06] [Server thread/INFO]: Preparing spawn area: 100%
+[11:26:06] [Server thread/INFO]: Loaded 169 spawn chunks for world VOID
+[11:26:06] [Server thread/INFO]: Time elapsed: 5629 ms
+[11:26:06] [Server thread/INFO]: Preparing start region for dimension 'VOID_the_end'/minecraft:the_end
+[11:26:06] [Server thread/INFO]: Preparing spawn area: 0%
+[11:26:06] [Server-Worker-2/INFO]: Preparing spawn area: 100%
+[11:26:07] [Server-Worker-2/INFO]: Preparing spawn area: 100%
+[11:26:07] [Server thread/INFO]: Loaded 169 spawn chunks for world VOID_the_end
+[11:26:07] [Server thread/INFO]: Time elapsed: 1006 ms
+[11:26:07] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.1.6
+[11:26:07] [Server thread/INFO]: [ClearLag] Loading modules...
+[11:26:07] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[11:26:07] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[11:26:07] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[11:26:07] [Server thread/INFO]: [OldCombatMechanics] Enabling OldCombatMechanics v1.7.4
+[11:26:07] [Thread-16/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.15]...
+[11:26:07] [Server thread/INFO]: [OldCombatMechanics] OldCombatMechanics v1.7.4 has been enabled
+[11:26:07] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.1.0-b775
+[11:26:07] [Server thread/WARN]: [Multiverse-Core] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.2-b107 which is not a depend, softdepend or loadbefore of this plugin.
+[11:26:07] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.1.0-b775" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Rigby, fernferret, lithium3141, main--, dumptruckman].
+[11:26:07] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do. The performance impact is negligible.
+[11:26:07] [Server thread/INFO]: [Multiverse-Core] 2 - World(s) loaded.
+[11:26:07] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[11:26:08] [Server thread/INFO]: [Multiverse-Core] Version 4.1.0-b775 (API v24) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[11:26:08] [Server thread/INFO]: [Multiverse-Core] Help dumptruckman keep this project alive. Become a patron! https://www.patreon.com/dumptruckman
+[11:26:08] [Server thread/INFO]: [Multiverse-Core] One time donations are also appreciated: https://www.paypal.me/dumptruckman
+[11:26:08] [Server thread/INFO]: [dynmap] Enabling dynmap v3.0-beta-10-257*
+[11:26:08] [Server thread/INFO]: [dynmap] Using LuckPerms 5.0.72 for access control
+[11:26:08] [Thread-16/INFO]: [ClearLag] No updates found!
+[11:26:08] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[11:26:09] [Server thread/INFO]: [dynmap] Loaded 25 shaders.
+[11:26:09] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[11:26:09] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[11:26:09] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[11:26:09] [Server thread/INFO]: [dynmap] version 3.0-beta-10-257 is enabled - core version 3.0-beta-10-257
+[11:26:09] [Server thread/INFO]: [dynmap] For support, visit https://forums.dynmap.us
+[11:26:09] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[11:26:09] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'VOID'.
+[11:26:09] [Server thread/INFO]: [dynmap] Loaded 17 pending tile renders for world 'VOID'
+[11:26:09] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'VOID_the_end'.
+[11:26:09] [Server thread/INFO]: [dynmap] Enabled
+[11:26:09] [Server thread/INFO]: [GUIShop] Enabling GUIShop v7.3.8
+[11:26:09] [Server thread/INFO]: [GUIShop] Vault could not detect an economy plugin!
+[11:26:09] [Server thread/INFO]: [GUIShop] Disabling GUIShop v7.3.8
+[11:26:09] [Server thread/INFO]: [Ultimate_Economy] Enabling Ultimate_Economy v1.2.5e
+[11:26:09] [Server thread/INFO]: [Ultimate_Economy] Loading language file: 'en' 'US'
+[11:26:09] [Server thread/INFO]: VaultAPI hooked into Ultimate_Economy
+[11:26:09] [Server thread/INFO]: [AddLight] Enabling AddLight v4.3.2*
+[11:26:09] [Server thread/INFO]: ------------------------------ AddLight 4.3.2 ------------------------------
+[11:26:09] [Server thread/INFO]: AddLight is enable ...
+[11:26:09] [Server thread/INFO]: Integration with WorldEdit
+[11:26:09] [Server thread/INFO]: Integration with Vault
+[11:26:09] [Server thread/INFO]: ----------------------------------------------------------------------------
+[11:26:09] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[11:26:10] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[11:26:10] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[11:26:10] [Server thread/INFO]: --------------------
+[11:26:10] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[11:26:10] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[11:26:10] [Server thread/INFO]: --------------------
+[11:26:10] [Server thread/INFO]: Done (11.211s)! For help, type "help"
+[11:26:10] [Server thread/INFO]: Timings Reset
+[11:26:10] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[11:26:10] [Craft Scheduler Thread - 5/INFO]: [Vault] Checking for Updates ... 
+[11:26:10] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[11:26:10] [Craft Scheduler Thread - 5/INFO]: [Vault] No new version available
+[11:26:12] [Craft Scheduler Thread - 5/INFO]: [AddLight 4.3.2] Successfully started Metrics
+[11:26:12] [Craft Scheduler Thread - 5/INFO]: [AddLight 4.3.2] See http://bstats.org/plugin/bukkit/AddLight
+[11:26:20] [Craft Scheduler Thread - 5/INFO]: [AddLight 4.3.2] You are running the latest version.
+[11:26:56] [Server thread/INFO]: Stopping the server
+[11:26:56] [Server thread/INFO]: Stopping server
+[11:26:56] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
+[11:26:56] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[11:26:57] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
+[11:26:57] [Server thread/INFO]: [AddLight] Disabling AddLight v4.3.2
+[11:26:57] [Server thread/INFO]: [AddLight 4.3.2] Disabled
+[11:26:57] [Server thread/INFO]: [AddLight 4.3.2] AddLight is now disabled
+[11:26:57] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
+[11:26:57] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[11:26:57] [Server thread/INFO]: [Ultimate_Economy] Disabling Ultimate_Economy v1.2.5e
+[11:26:57] [Server thread/INFO]: VaultAPI unhooked from Ultimate_Economy
+[11:26:57] [Server thread/INFO]: [dynmap] Disabling dynmap v3.0-beta-10-257
+[11:26:57] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[11:26:57] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[11:26:58] [Server thread/INFO]: [dynmap] Disabled
+[11:26:58] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.1.0-b775
+[11:26:58] [Server thread/INFO]: [Vault] Disabling Vault v1.7.2-b107
+[11:26:58] [Server thread/INFO]: [OldCombatMechanics] Disabling OldCombatMechanics v1.7.4
+[11:26:58] [Server thread/INFO]: [OldCombatMechanics] OldCombatMechanics v1.7.4 has been disabled
+[11:26:58] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.0.72
+[11:26:58] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[11:26:58] [Server thread/INFO]: [LuckPerms] Closing storage...
+[11:26:58] [Server thread/INFO]: [LuckPerms] Goodbye!
+[11:26:58] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.1.6
+[11:26:58] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[11:26:58] [Server thread/INFO]: Saving players
+[11:26:58] [Server thread/INFO]: Saving worlds
+[11:26:58] [Server thread/INFO]: Saving chunks for level 'VOID'/minecraft:overworld
+[11:26:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (VOID): All chunks are saved
+[11:26:58] [Server thread/INFO]: Saving chunks for level 'VOID_the_end'/minecraft:the_end
+[11:26:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:26:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (VOID): All chunks are saved
+[11:26:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

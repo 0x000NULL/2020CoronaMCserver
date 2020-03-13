@@ -1,0 +1,12 @@
+MaxHomes: 3
+MaxJobs: 2
+MaxJoinedTowns: 1
+MaxPlayershops: 3
+homes: true
+MaxRentedDays: 14
+ExtendedInteraction: false
+WildernessInteraction: false
+currencyPl: $
+currencySg: $
+localeLanguage: en
+localeCountry: US
